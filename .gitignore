@@ -1,0 +1,11 @@
+#Stuff in Trie
+Trie/.vs
+Trie/bin
+Trie/obj
+Trie/packages
+
+#Stuff in Tests folder for Trie
+TrieTests/.vs
+TrieTests/bin
+TrieTests/obj
+TrieTests/packages
